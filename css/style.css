@@ -1,0 +1,112 @@
+H1{
+margin-bottom:0px;
+letter-spacing:1px;
+}
+body
+{
+background-color:#404040;
+}
+#container
+{
+width:1000;
+margin-left:auto;
+margin-right:auto;
+}
+#logo
+{
+color:white;
+margin-bottom:0px;
+font-size:1cm;
+letter-spacing:3px;
+}
+#menu
+{
+background-color:#202020;
+margin-top:10px;
+color:white;
+padding:10px;
+}
+
+#topbar
+{
+margin-bottom:10px;
+margin-top:10px;
+font-size:5mm;
+padding:1px;
+text-align:center;
+}
+.warning
+{
+background-color:red;
+margin-bottom:10px;
+margin-top:10px;
+font-size:5mm;
+padding:10px;
+text-align:center;
+opacity:0.4;
+border-radius:20px;
+}
+
+.success
+{
+background-color:green;
+margin-bottom:10px;
+margin-top:10px;
+font-size:5mm;
+padding:10px;
+text-align:center;
+border-radius:20px;
+}
+.option
+{
+float: left;
+min-width: 50px;
+height: 25px;
+font-size: 18px;
+padding: 10px;
+border-right:2px dotted #444444;
+}
+.option:hover
+{
+background-color:white;
+color:black;
+cursor: pointer;
+}
+
+a:link { color: white; text-decoration: none }
+a:visited { color: white; text-decoration: none }
+a:hover { color: black; text-decoration: underline }
+#login
+{
+float:right;
+color:black;
+width:200px;
+min-height:750px;
+background-color:lightgray;
+text-align:center;
+border-left:2px dotted #666666;
+border-bottom:2px dotted #666666;
+border-right:2px dotted #666666;
+border-top:2px dotted #666666;
+
+}
+#info
+{
+float:left;
+width:1000;
+min-height:750px;
+background-color:lightgray;
+text-align:justify;
+
+
+}
+#footer
+{
+clear:both;
+text-align:center;
+padding:10px;
+background-color:gray;
+color:white;
+margin-top:10px;
+border-radius:5px;
+}
