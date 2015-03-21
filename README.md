@@ -1,3 +1,7 @@
 # gra-via-www-rpg
-gria via rpg tworzona od podstaw narazie posiada system logowania oraz rejestracji i system leveli
-c
+Gra via www rpg tworzona od kompletnego zera
+
+Aktualizacje:
+21-03-2015
+-Dodano system logowania oraz rejestracji
+-Dodano System leveli
